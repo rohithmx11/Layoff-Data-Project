@@ -28,7 +28,7 @@ This analysis highlights global layoffs from 2020 to March 2023, providing insig
        * Aerospace and Energy showed relatively lower layoff numbers across the years. Aerospace had fewer than 1,000 layoffs in each of the years analyzed, and Energy had 167 in 2020 and 635 in 2022.
       * Marketing: Layoffs were fewer in this sector in 2021 (21), but the number rose significantly in 2023 (3,682), showing the shifting dynamics in demand for marketing roles.
 
-### [For a more detailed exploration of the data, visit the Layoff Dashboard:](https://app.powerbi.com/view?r=eyJrIjoiMTQ1N2FjOTAtZWJlNS00ODQzLTgzMzEtOWNiNDBhZDgyMTFlIiwidCI6IjBmNmY2NGI0LTgwNDEtNGU0MC1iYTEyLWRkYjRkN2QyNWM5ZSJ9)
+### [For a more detailed exploration of the data, visit the Layoff Dashboard:](https://app.powerbi.com/view?r=eyJrIjoiMTQ1N2FjOTAtZWJlNS00ODQzLTgzMzEtOWNiNDBhZDgyMTFlIiwidCI6IjBmNmY2NGI0LTgwNDEtNGU0MC1iYTEyLWRkYjRkN2QyNWM5ZSJ9&pageName=8b36388b30a81c044a17)
 
 ## Industry Breakdown
    * High Layoffs: Consumer, Retail, Transportation, and Healthcare are the industries most affected by mass layoffs, particularly in 2022 and 2023.
