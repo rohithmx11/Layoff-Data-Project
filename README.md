@@ -34,3 +34,10 @@ This analysis highlights global layoffs from 2020 to March 2023, providing insig
    * High Layoffs: Consumer, Retail, Transportation, and Healthcare are the industries most affected by mass layoffs, particularly in 2022 and 2023.
    * Moderate Layoffs: Construction, Education, and Food showed notable layoffs but with variations based on the year.
    * Low Layoffs: Aerospace, Energy, and Product industries had fewer layoffs overall.
+## Access the Data and Queries
+   
+   To explore the data behind this analysis or learn more about how the findings were derived, you can access them here:
+      
+   * Layoff Dataset: [Download the Dataset](https://github.com/rohithmx11/PortfolioProjects/tree/main/dataset)
+   * Queries Used: [View the Queries](https://github.com/rohithmx11/PortfolioProjects/tree/main/SQL%20Queries)
+     
