@@ -6,7 +6,7 @@ This analysis highlights global layoffs from 2020 to March 2023, providing insig
    1. Total Layoffs: 383,159 employees were laid off across 1,488 companies in 99 countries, affecting 101 industries.
       
    2. Industries with Highest Layoffs:
-![Screenshot 2024-12-13 224225](https://github.com/user-attachments/assets/09ed5c88-f079-4744-a919-4fbeb9202686)
+![Screenshot 2024-12-13 224225](https://github.com/user-attachments/assets/e449c166-530a-4767-a840-f1dbf3e472ee)
 
 
       * Consumer: This sector experienced 6,063 layoffs in 2020, which soared to 19,856 in 2022, before moderating to 15,663 in 2023.
@@ -16,6 +16,7 @@ This analysis highlights global layoffs from 2020 to March 2023, providing insig
       * Food: The food industry saw 6,218 layoffs in 2020, but layoffs rose in 2022 (11,288) and continued to be high in 2023 (2,705).
         
    4. Notable Trends by Year:
+![Screenshot 2024-12-14 001814](https://github.com/user-attachments/assets/09ed5c88-f079-4744-a919-4fbeb9202686)
       
 
       * 2020: The pandemic resulted in sharp layoffs across Transportation (14,656), Retail (8,002), and Food (6,218). Many industries such as Travel (13,983) and Media (1,150) were severely impacted by the economic downturn.
@@ -29,12 +30,15 @@ This analysis highlights global layoffs from 2020 to March 2023, providing insig
       * Aerospace and Energy showed relatively lower layoff numbers across the years. Aerospace had fewer than 1,000 layoffs in each of the years analyzed, and Energy had 167 in 2020 and 635 in 2022.
       * Marketing: Layoffs were fewer in this sector in 2021 (21), but the number rose significantly in 2023 (3,682), showing the shifting dynamics in demand for marketing roles.
 
-### [For a more detailed exploration of the data, visit the Layoff Dashboard:](https://app.powerbi.com/view?r=eyJrIjoiMTQ1N2FjOTAtZWJlNS00ODQzLTgzMzEtOWNiNDBhZDgyMTFlIiwidCI6IjBmNmY2NGI0LTgwNDEtNGU0MC1iYTEyLWRkYjRkN2QyNWM5ZSJ9&pageName=8b36388b30a81c044a17)
+### [For a more detailed exploration of the data, visit the Layoff Dashboard:](https://app.powerbi.com/view?r=eyJrIjoiZTZjYjYxMTUtMjZkOS00NzY1LTg3NDYtMTg5Y2ZlMmExNTJlIiwidCI6IjBmNmY2NGI0LTgwNDEtNGU0MC1iYTEyLWRkYjRkN2QyNWM5ZSJ9)
 
-## Industry Breakdown
-   * High Layoffs: Consumer, Retail, Transportation, and Healthcare are the industries most affected by mass layoffs, particularly in 2022 and 2023.
-   * Moderate Layoffs: Construction, Education, and Food showed notable layoffs but with variations based on the year.
-   * Low Layoffs: Aerospace, Energy, and Product industries had fewer layoffs overall.
+## Conclusion
+The analysis of layoffs from 2020 to 2023 reveals distinct patterns across industries, with some sectors experiencing significant workforce reductions due to changing economic conditions. Key insights include:
+   1. Healthcare Layoffs Show a Unique Trend: There were no layoffs reported in the healthcare sector during 2021. However, layoffs increased sharply in 2022, reaching 15,058. The trend slightly eased in 2023, with 9,770 layoffs.
+   2. Retail and Consumer Industries Were the Hardest Hit: Retail layoffs peaked in 2022 at 20,914, making it the hardest-hit sector. Similarly, the Consumer sector saw massive workforce reductions, particularly in 2022 (19,856) and 2023 (15,663), reflecting shifting market dynamics.
+   3. Transportation Layoffs Reflect Pandemic and Post-Pandemic Challenges: Transportation faced significant layoffs, particularly in 2020 (14,656) and 2022 (15,227), as the sector struggled to adapt to fluctuating demand during and after the pandemic.
+   4. Gradual Recovery in Some Sectors: The Food and Transportation industries showed signs of recovery in 2023, with fewer layoffs compared to the peak levels in earlier years.
+   5. Broader Economic Trends Evident in Layoff Patterns: The layoff trends underscore the economic disruptions caused by the pandemic and its aftermath, from supply chain interruptions to shifts in consumer behavior and digitalization across sectors.
 ## Access the Data and Queries
    
    To explore the data behind this analysis or learn more about how the findings were derived, you can access them here:
