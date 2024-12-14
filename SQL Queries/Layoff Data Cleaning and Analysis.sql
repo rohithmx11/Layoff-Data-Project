@@ -306,6 +306,33 @@ SELECT * FROM Company_Year_Rank
 WHERE Ranking <= 5
 ORDER BY [year];
 
+-- Query to get top 10 industries with highest layoffs per year
+
+SELECT 
+    industry,
+    YEAR(date) AS date,
+    SUM(total_laid_off) AS total_laid_off
+FROM 
+    layoffs_staging
+WHERE 
+    industry IN (
+        -- Subquery to get top 10 industries by layoffs
+        SELECT 
+            industry
+        FROM (
+            SELECT 
+                industry,
+                ROW_NUMBER() OVER (ORDER BY SUM(total_laid_off) DESC) AS ranking_per_layoffs
+            FROM 
+                layoffs_staging
+            GROUP BY 
+                industry
+        ) AS ranking
+        WHERE ranking_per_layoffs <= 10
+    )
+GROUP BY 
+    industry,
+    YEAR(date);
 
 
 
