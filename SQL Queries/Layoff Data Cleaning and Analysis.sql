@@ -282,7 +282,7 @@ WITH Rolling_Total AS(
 SELECT SUBSTRING(cast(date as varchar),1,7) AS 'Month' , SUM(total_laid_off) AS sum_over_Month
 FROM layoffs_staging
 where SUBSTRING(cast(date as varchar),1,7) is not null
-group by SUBSTRING(cast(date as varchar),1,7)
+GROUP BY SUBSTRING(cast(date as varchar),1,7)
 )
 SELECT [MONTH],sum_over_Month, SUM(sum_over_Month)OVER(ORDER BY [Month]) AS rolling_total
 FROM Rolling_Total;
@@ -306,7 +306,7 @@ SELECT * FROM Company_Year_Rank
 WHERE Ranking <= 5
 ORDER BY [year];
 
--- Query to get top 10 industries with highest layoffs per year
+-- Step 10 : top 10 industries with highest layoffs per year
 
 SELECT 
     industry,
@@ -328,8 +328,7 @@ WHERE
             GROUP BY 
                 industry
         ) AS ranking
-        WHERE ranking_per_layoffs <= 10
-    )
+        WHERE ranking_per_layoffs <= 10 )
 GROUP BY 
     industry,
     YEAR(date);
