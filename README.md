@@ -1,28 +1,31 @@
 # Global Layoff Analysis (March 2020 - March 2023)
 ## Overview
-This analysis highlights global layoffs from 2020 to March 2023, providing insights into the scale, impact, and trends across industries, companies, and countries.
+Layoffs have been a defining feature of the global economy over the past few years. From the onset of the COVID-19 pandemic to subsequent market shifts, various industries have witnessed significant job cuts. This article explores key trends from 2020 to early 2023, offering insights into which sectors were hit the hardest and how layoffs evolved over time.
 ### Key Findings
    
-   1. Total Layoffs: 383,159 employees were laid off across 1,488 companies in 99 countries, affecting 101 industries.
+   1. Overall Impact: 383,159 employees were laid off across 1,488 companies in 99 countries, affecting 101 industries.
+      * A total of 383,159 layoffs were recorded from 1,488 companies spanning 99 countries and 101 industries during the period.
       
-   2. Industries with Highest Layoffs:
+   3. Industries with Highest Layoffs:
 ![Screenshot 2024-12-13 224225](https://github.com/user-attachments/assets/e449c166-530a-4767-a840-f1dbf3e472ee)
 
 
-      * Consumer: This sector experienced 6,063 layoffs in 2020, which soared to 19,856 in 2022, before moderating to 15,663 in 2023.
-      * Retail: Layoffs in retail began with 8,002 in 2020, surged to 20,914 in 2022, and remained substantial with 13,609 layoffs in 2023.
-      * Transportation: In 2020, the transportation industry faced significant layoffs, with 14,656 job cuts. Layoffs remained high in 2022 (15,227) and decreased significantly in 2023 (3,665).
-      * Healthcare: Despite a boom in demand, while 2020 saw 1,125 layoffs in healthcare, the numbers rose drastically to 15,058 in 2022 before slightly declining to 9,770 in 2023.
-      * Food: The food industry saw 6,218 layoffs in 2020, but layoffs rose in 2022 (11,288) and continued to be high in 2023 (2,705).
+      * Consumer: The Consumer industry faced severe disruptions, starting with 6,063 layoffs in 2020 due to the pandemic. In 2021, layoffs decreased to 3,600, but in 2022, they surged to 19,856, marking a tough year. By 2023, layoffs fell slightly to 15,663, though the sector remained heavily impacted.
+
+      * Retail: Retail saw significant fluctuations, with 8,002 layoffs in 2020 as businesses adjusted to the pandemic. By 2021, layoffs dropped to 1,088, showing signs of recovery. However, 2022 saw a sharp increase to 20,914, and 2023 brought a reduction to 13,609, still reflecting the industry’s ongoing struggles.
+      * Transportation: The Transportation sector was hit hard in 2020 with 14,656 layoffs. In 2022, layoffs remained high at 15,227, but by 2023, the number dropped to 3,665, signaling a slow recovery as travel demand rebounded.
+      * Healthcare: Despite being on the frontlines, Healthcare saw a rise in layoffs in 2022 (15,058) as post-pandemic adjustments took place. In 2023, layoffs decreased to 9,770, though still substantial. 2020 had relatively fewer layoffs at 1,125.
+      * Finance: The Finance sector experienced 8,624 layoffs in 2020 due to economic uncertainty. By 2022, layoffs peaked at 12,684, but in 2023, the number fell to 7,036, reflecting the sector's gradual adaptation to shifting market conditions.
         
-   4. Notable Trends by Year:
+   5. Notable Trends by Year:
 ![Screenshot 2024-12-14 001814](https://github.com/user-attachments/assets/09ed5c88-f079-4744-a919-4fbeb9202686)
       
 
-      * 2020: The pandemic resulted in sharp layoffs across Transportation (14,656), Retail (8,002), and Food (6,218). Many industries such as Travel (13,983) and Media (1,150) were severely impacted by the economic downturn.
-      * 2021: There was a reduction in the overall number of layoffs compared to 2020, but some sectors like Consumer (3,600), Real Estate (2,900), and Construction (2,434) still experienced notable cuts.
-      * 2022: Industries like Crypto (8,263), Consumer (15,663), and Healthcare (15,058) saw major layoffs due to ongoing market shifts. Real Estate and Food also had significant layoffs during this year.
-      * 2023: Layoffs remained high in sectors such as Retail (13,609), Consumer (15,663), and Sales (9,311). Food (2,705) and Crypto (2,339) showed a marked reduction in layoffs, indicating possible stabilization or adjustments in these sectors.
+      * 2020: The pandemic drove major layoffs across various industries. Transportation (14,656 layoffs) and Travel (13,983 layoffs) were the hardest-hit sectors, reflecting travel restrictions and industry shutdowns. Retail (8,002 layoffs) and Consumer (6,063 layoffs) also saw significant cuts as businesses adjusted to new market conditions. Finance (8,624 layoffs) and Food (6,218 layoffs) experienced considerable job losses, with Healthcare (1,125 layoffs) relatively less impacted despite the pandemic.
+        
+      * 2021: Layoffs dropped across many sectors as companies began adjusting to the post-pandemic world. Transportation saw a sharp decrease in layoffs (200), indicating stabilization. Retail (1,088 layoffs) and Consumer (3,600 layoffs) also showed improvements. Real Estate (2,900 layoffs) and Food (2,644 layoffs) experienced moderate cuts, while Finance did not report data..
+      * 2022: Layoffs spiked again, with Retail (20,914 layoffs) and Consumer (19,856 layoffs) seeing massive increases, driven by ongoing disruptions and economic shifts. Healthcare (15,058 layoffs) faced significant cuts due to post-pandemic adjustments, and Transportation (15,227 layoffs) continued to be heavily impacted. Food (11,288 layoffs) and Real Estate (9,932 layoffs) also faced substantial losses, while Hardware (605 layoffs) and Travel (1,637 layoffs) experienced moderate disruptions.
+      * 2023: Layoffs generally declined, with the Other sector experiencing a massive jump to 28,512 layoffs, possibly due to restructuring or changes in the gig economy. Consumer (15,663 layoffs) and Retail (13,609 layoffs) remained significantly impacted, though layoffs were lower than in 2022. Healthcare (9,770 layoffs) and Transportation (3,665 layoffs) saw reductions, indicating some industry recovery. Finance (7,036 layoffs) and Food (2,705 layoffs) experienced moderate cuts, while Hardware (13,223 layoffs) saw a drastic increase.
 
    6. Industries with Lower Layoffs:
 
