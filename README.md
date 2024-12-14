@@ -3,7 +3,7 @@
 Layoffs have been a defining feature of the global economy over the past few years. From the onset of the COVID-19 pandemic to subsequent market shifts, various industries have witnessed significant job cuts. This article explores key trends from 2020 to early 2023, offering insights into which sectors were hit the hardest and how layoffs evolved over time.
 ### Key Findings
    
-   1. Overall Impact: 383,159 employees were laid off across 1,488 companies in 99 countries, affecting 101 industries.
+   1. Overall Impact: 
       * A total of 383,159 layoffs were recorded from 1,488 companies spanning 99 countries and 101 industries during the period.
       
    3. Industries with Highest Layoffs:
